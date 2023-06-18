@@ -1,0 +1,5 @@
+﻿class,FirstName,FacultyName,facultyEmail,StudentName1,StudentFirstName1,Course1,numCredits,studentEmail1,StudentName2,StudentFirstName2,Course2,numCredits,studentEmail2,day,startTime,endTime,Room
+112.D01,Sarah,Ms. Abdul-Wahid,Sarah.Abdul-Wahid@cwu.edu,Ladrain,Breeze,392,1,Breeze.Ladrain@cwu.edu,Yolen,Witt,492,2,Witt.Yolen@cwu.edu,Tuesday / Thursday,10:00AM,10:50AM,DESM208
+361.A01,,,,Yolen,Hoid,392,1,yolenh@cwu.edu,Synod,Tindwyl,492,2,SynodT@cwu.edu,Tuesday / Thursday,2:00PM,2:50PM,ONLINE
+420.D01,Nathan,Dr. White,nathan.white@cwu.edu,Cett,Ashweather,392,1,cetta@cwu.edu,Venture,Straff,492,2,Straff.Venture@cwu.edu,Tuesday,12:00PM,12:50PM,DESM113
+450.A01,Nathan,Dr. White,nathan.white@cwu.edu,Ladrain,Breeze,492,2,Breeze.Ladrain@cwu.edu,,,,,,Monday / Tuesday / Wednesday / Thursday,10:00AM,10:50AM,ONLINE
